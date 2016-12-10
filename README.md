@@ -7,7 +7,7 @@ from event 9.12.16
 
 ### Запуск
 1. `git clone *link to rep* `
-2. Переход в каталог projects `cd project`
+2. Переход в каталог project `cd project`
 3. `npm install`
 4. `node app`
 5. Откройте в браузере `localhost:3000`
